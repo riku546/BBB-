@@ -506,6 +506,16 @@ margin-right:10%;
    margin-right: 10px;
  } */
 
+   nav.open{
+   left: 0;
+   right: 0;
+   top: 100px;
+ }
+ .hamburgur-link::after{
+   right: 20px;
+   width: 85%;
+ }
+  
  
   .image img{
 width: 100%;
